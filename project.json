@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-btyn5qij"",
-  ""goal"": ""report generator for quota management"",
-  ""language"": ""rust"",
-  ""template"": ""rust-lib""
+    "name":  "specproj-btyn5qij",
+    "goal":  "report generator for quota management",
+    "language":  "rust",
+    "template":  "rust-lib"
 }
